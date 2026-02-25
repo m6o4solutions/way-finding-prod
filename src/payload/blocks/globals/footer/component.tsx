@@ -31,15 +31,7 @@ const Footer = async () => {
 
 				<div className="flex flex-col items-center gap-3 lg:flex-row lg:justify-between">
 					<p className="text-center text-sm text-[#B2D2C2]">
-						&copy; {new Date().getFullYear()} {footerCopyright} | Website Created by{" "}
-						<Link
-							href="https://www.m6o4solutions.com"
-							target="_blank"
-							rel="noopener noreferrer"
-							className="hover:text-white hover:underline"
-						>
-							M6O4 Solutions.
-						</Link>
+						&copy; {new Date().getFullYear()} {footerCopyright}
 					</p>
 
 					<div className="flex">
