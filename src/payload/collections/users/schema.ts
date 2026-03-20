@@ -16,6 +16,7 @@ const Users: CollectionConfig = {
 	},
 	admin: {
 		defaultColumns: ["name", "photo", "email", "createdAt", "updatedAt"],
+		group: "Globals",
 		useAsTitle: "name",
 	},
 	labels: {

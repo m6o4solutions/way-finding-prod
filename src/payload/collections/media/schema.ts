@@ -12,6 +12,7 @@ const Media: CollectionConfig = {
 	},
 	admin: {
 		defaultColumns: ["filename", "alt", "caption", "createdAt", "updatedAt"],
+		group: "Globals",
 		useAsTitle: "filename",
 	},
 	labels: {

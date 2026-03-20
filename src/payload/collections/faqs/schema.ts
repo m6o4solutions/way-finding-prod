@@ -11,6 +11,7 @@ const FAQs: CollectionConfig = {
 	},
 	admin: {
 		defaultColumns: ["question", "answer", "createdAt", "updatedAt"],
+		group: "Content",
 		useAsTitle: "question",
 	},
 	labels: {
