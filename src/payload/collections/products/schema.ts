@@ -12,6 +12,7 @@ const Products: CollectionConfig = {
 	},
 	admin: {
 		defaultColumns: ["name", "image", "description", "price", "createdAt", "updatedAt"],
+		group: "Content",
 		useAsTitle: "name",
 	},
 	labels: {

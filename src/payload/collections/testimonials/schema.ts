@@ -12,6 +12,7 @@ const Testimonials: CollectionConfig = {
 	},
 	admin: {
 		defaultColumns: ["name", "testimony", "createdAt", "updatedAt"],
+		group: "Content",
 		useAsTitle: "name",
 	},
 	labels: {

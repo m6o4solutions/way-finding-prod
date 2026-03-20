@@ -12,6 +12,7 @@ const Categories: CollectionConfig = {
 	},
 	admin: {
 		defaultColumns: ["title", "description", "createdAt", "updatedAt"],
+		group: "Content",
 		useAsTitle: "title",
 	},
 	labels: {
