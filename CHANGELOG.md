@@ -1,3 +1,10 @@
+# [1.30.0](https://github.com/m6o4solutions/way-finding-prod/compare/v1.29.0...v1.30.0) (2026-03-20)
+
+
+### Features
+
+* **admin:** organize collections into groups ([5c88c62](https://github.com/m6o4solutions/way-finding-prod/commit/5c88c6208b82894a19137f7c0e212bd607b398ba))
+
 # [1.29.0](https://github.com/m6o4solutions/way-finding-coaching-project/compare/v1.28.0...v1.29.0) (2025-12-26)
 
 ### Features
